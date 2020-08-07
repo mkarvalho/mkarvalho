@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello World
+Hi, I'm Matheus Carvalho 👋
 
-<!--
-**mkarvalho/mkarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![age](https://img.shields.io/badge/age-24-green)
+![focus](https://img.shields.io/badge/focus-react-blue)
+![living](https://img.shields.io/badge/living-rio%20de%20janeiro-red)
+[![linkedin](https://img.shields.io/badge/linked-in-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/matheuscarvalho/) 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mkarvalho.github.profile)
+<br />
 
-Here are some ideas to get you started:
+- :books: I’m currently learning Typescript, Node.js, React and React Native.
+- :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+- :pushpin: Interests: UX, UI Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
