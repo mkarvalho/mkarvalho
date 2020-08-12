@@ -8,6 +8,8 @@ Hi, I'm Matheus Carvalho 👋
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mkarvalho.github.profile)
 <br />
 
+![stats](https://github-readme-stats.vercel.app/api?username=mkarvalho&show_icons=true&theme=dracula)
+
 - :books: I’m currently learning Typescript, Node.js, React and React Native.
 - :computer: Techs: <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">  <img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 - :pushpin: Interests: UX, UI Design
