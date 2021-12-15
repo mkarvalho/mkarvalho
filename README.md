@@ -8,5 +8,4 @@
 
 ![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)</br>
 ![Blazor](https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label=)</br>
-![RobotFramwork](https://img.shields.io/badge/Robot%20Framework-f2f2f2?style=for-the-badge&logo=robotframework&logoColor=black)</br>
-![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white)
+![RobotFramwork](https://img.shields.io/badge/Robot%20Framework-f2f2f2?style=for-the-badge&logo=robotframework&logoColor=black) with ![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white)
