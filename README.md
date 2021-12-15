@@ -6,10 +6,7 @@
 - Actually working as Support Analyst at [@totvs](https://github.com/totvs)
 - Currently learning 
 
-![.NET](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-![Blazor](https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label=)
-![RobotFramwork](https://img.shields.io/badge/Robot%20Framework-000000?style=for-the-badge&logo=robotframework&logoColor=white)
-
-<a href="https://github.com/mkarvalho/bin2dec">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mkarvalho&repo=bin2dec" />
-</a>
+![.NET](https://img.shields.io/static/v1?style=for-the-badge&message=.NET&color=512BD4&logo=.NET&logoColor=FFFFFF&label=)</br>
+![Blazor](https://img.shields.io/static/v1?style=for-the-badge&message=Blazor&color=512BD4&logo=Blazor&logoColor=FFFFFF&label=)</br>
+![RobotFramwork](https://img.shields.io/badge/Robot%20Framework-f2f2f2?style=for-the-badge&logo=robotframework&logoColor=black)</br>
+![Selenium](https://img.shields.io/badge/Selenium-43b02a?style=for-the-badge&logo=Selenium&logoColor=white)
